@@ -22,16 +22,26 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 2304      | [창고 다각형](https://www.acmicpc.net/problem/2304)   | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 구현     |
-| 1051      | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
+| 16234      | [인구 이동](https://www.acmicpc.net/problem/16234)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
+| 1388      | [바닥 장식](https://www.acmicpc.net/problem/1388) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
 
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 301647    | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | LV.2   |
-| 133027    | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   | LV.4   |
+| 131123    | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | LV.?   |
+| -    | [-](https://school.programmers.co.kr/learn/courses/30/lessons/)   | LV.?   |
+
+---
+
+**추천 문제**
+| 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
+| :--------: | :------------ | :---------------------------------------------------- | :------- |
+| 10845      | [큐](https://www.acmicpc.net/problem/10845)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료 구조     |
+| 1948      | [임계 경로](https://www.acmicpc.net/problem/1388) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
+
+---
 
 ## ✅ 지금까지 푼 문제
 
@@ -40,15 +50,23 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-
+| 2304      | [창고 다각형](https://www.acmicpc.net/problem/2304)   | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 구현     |
+| 1051      | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
+| 301647    | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | LV.2   |
+| 133027    | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   | LV.4   |
 
+---
 
+**추천 문제**
+| 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
+| :--------: | :------------ | :---------------------------------------------------- | :------- |
 
+---
 ## 📌 추가 안내
 
 > **⭐ 스터디 운영 가이드라인**
