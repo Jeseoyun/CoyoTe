@@ -1,7 +1,8 @@
 # 🦊CoyoTe🦊
 
 ## **🔔 Member**  
-> **권기범**  
+> **권기범**
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 > - [solved.ac](https://solved.ac/profile/qja1998)
 > - 1일 1백준 중
 ---
