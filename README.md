@@ -2,6 +2,7 @@
 
 ## **🔔 Member**  
 > **권기범**
+> 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 > - [solved.ac](https://solved.ac/profile/qja1998)
 > - 1일 1백준 중
@@ -12,7 +13,8 @@
 > **연재환**  
 > -  
 ---
-> **류현웅**  
+> **류현웅**
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
 > - 
 ---
 
