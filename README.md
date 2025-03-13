@@ -1,19 +1,22 @@
 # 🦊CoyoTe🦊
 
 ## **🔔 Member**  
-> **권기범**
+> ### **권기범**
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 > - [solved.ac](https://solved.ac/profile/qja1998)
 > - 1일 1백준 중
 ---
-> **김수민**  
-> - 
+> ### **김수민**  
+>
 ---
-> **연재환**  
-> -  
+> ### **연재환**  
+>
 ---
-> **류현웅**
+> ### **제서윤**  
+>
+---
+> ### **류현웅**
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
 > - 
@@ -56,6 +59,8 @@
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
 | 2304      | [창고 다각형](https://www.acmicpc.net/problem/2304)   | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 구현     |
 | 1051      | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
+| 16234      | [인구 이동](https://www.acmicpc.net/problem/16234)   | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 탐색     |
+| 1388      | [바닥 장식](https://www.acmicpc.net/problem/1388) | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 탐색     |
 ---
 
 **SQL**
@@ -63,7 +68,8 @@
 | :--------: | :------------------------------------ | :----- |
 | 301647    | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | LV.2   |
 | 133027    | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   | LV.4   |
-
+| 131123    | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | LV.3   |
+| 276035    | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   | LV.2   |
 ---
 
 **추천 문제**
