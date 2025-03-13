@@ -1,3 +1,4 @@
 # IntelliJ IDEA 관련 파일 제외
 .idea/
 *.iml
+.DS_Store
