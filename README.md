@@ -29,16 +29,16 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 16234      | [인구 이동](https://www.acmicpc.net/problem/16234)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
-| 1388      | [바닥 장식](https://www.acmicpc.net/problem/1388) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
+| 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
+| 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
 
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 131123    | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | LV.?   |
-| 276035    | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   | LV.?   |
+| 299310    | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | LV.?   |
+| 151141    | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)   | LV.?   |
 
 ---
 
