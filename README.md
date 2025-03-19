@@ -5,7 +5,7 @@
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 > - [solved.ac](https://solved.ac/profile/qja1998)
-> - 1일 1백준 중
+> - ~~1일 1백준 중~~
 ---
 > ### **김수민**  
 >
@@ -29,8 +29,8 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
-| 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 탐색     |
+| 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프     |
+| 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현현     |
 
 ---
 
