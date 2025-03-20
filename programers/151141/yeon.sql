@@ -1,4 +1,4 @@
-select a.history_id, a.car_type, a.total_price, a.plan_id, dp.discount_rate,
+select a.history_id,# a.total_price, a.rental_period, dp.discount_rate,
 if(a.plan_id=0, a.total_price, round((total_price*(1-(0.01*dp.discount_rate))))) as FEE
 from(
     select rh.history_id, c.car_type, 
@@ -17,4 +17,5 @@ from(
     where c.car_type='트럭'
 ) as a
 left join car_rental_company_discount_plan as dp
-on a.plan_id=dp.plan_id;
+on a.plan_id=dp.plan_id
+order by FEE desc, history_id desc;
