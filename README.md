@@ -29,23 +29,22 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프     |
-| 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현현     |
+| 2606      | [바이러스](https://www.acmicpc.net/problem/2606)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, BFS, DFS     |
+| 4803      | [트리](https://www.acmicpc.net/problem/4803) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 트리     |
 
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 299310    | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | LV.?   |
-| 151141    | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)   | LV.?   |
+| 299305    | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) | LV.?   |
+| 59042    | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)   | LV.?   |
 
 ---
 
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 10845      | [큐](https://www.acmicpc.net/problem/10845)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료 구조     |
 | 1948      | [임계 경로](https://www.acmicpc.net/problem/1388) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
 
 ---
@@ -61,6 +60,8 @@
 | 1051      | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현     |
 | 16234      | [인구 이동](https://www.acmicpc.net/problem/16234)   | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 탐색     |
 | 1388      | [바닥 장식](https://www.acmicpc.net/problem/1388) | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 탐색     |
+| 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프     |
+| 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 구현     |
 ---
 
 **SQL**
@@ -70,12 +71,14 @@
 | 133027    | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)   | LV.4   |
 | 131123    | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | LV.3   |
 | 276035    | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   | LV.2   |
+| 299310    | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | LV.2   |
+| 151141    | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)   | LV.4   |
 ---
 
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-
+| 10845      | [큐](https://www.acmicpc.net/problem/10845)   | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 자료 구조     |
 ---
 ## 📌 추가 안내
 
