@@ -29,16 +29,16 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 2606      | [바이러스](https://www.acmicpc.net/problem/2606)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, BFS, DFS     |
-| 4803      | [트리](https://www.acmicpc.net/problem/4803) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 트리     |
+| 11723      | [집합](https://www.acmicpc.net/problem/11723)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, BFS, DFS     |
+| 13549      | [트리](https://www.acmicpc.net/problem/13549) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 트리     |
 
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 299305    | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) | LV.?   |
-| 59042    | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)   | LV.?   |
+| 131116    | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | LV.?   |
+| 59038    | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)   | LV.?   |
 
 ---
 
@@ -62,6 +62,8 @@
 | 1388      | [바닥 장식](https://www.acmicpc.net/problem/1388) | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 탐색     |
 | 15591      | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)   | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프     |
 | 1244      | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 구현     |
+| 2606      | [바이러스](https://www.acmicpc.net/problem/2606)   | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 그래프, BFS, DFS     |
+| 4803      | [트리](https://www.acmicpc.net/problem/4803) | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 트리     |
 ---
 
 **SQL**
@@ -73,6 +75,8 @@
 | 276035    | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)   | LV.2   |
 | 299310    | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | LV.2   |
 | 151141    | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)   | LV.4   |
+| 299305    | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) | LV.3   |
+| 59042    | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)   | LV.3   |
 ---
 
 **추천 문제**
