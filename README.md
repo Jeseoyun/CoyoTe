@@ -39,7 +39,7 @@
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
 | 59043    | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | LV.?   |
-| 59038    | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)   | LV.?   |
+| 131537    | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)   | LV.?   |
 
 ---
 
