@@ -30,16 +30,16 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 14888      | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 브루트포스, 백트래킹킹     |
-| 31575      | [도시와 비트코인](https://www.acmicpc.net/problem/31575) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색     |
+| 1043      | [거짓말](https://www.acmicpc.net/problem/1043)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 그래프 이론, 그래프 집합, 분리 집합     |
+| 1325      | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색     |
 
 ---
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 59044    | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | LV.?   |
-| 59045    | [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)   | LV.?   |
+| 144856    | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | LV.?   |
+| 151139    | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)   | LV.?   |
 
 ---
 
@@ -69,6 +69,8 @@
 | 13549      | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프, BFS, 최단 경로, 다익스트라, 0-1 너비 우선 탐색     |
 | 2468      | [안전 영역](https://www.acmicpc.net/problem/2468)   | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프, 브루트포스, 탐색, BFS, DFS     |
 | 1652      | [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652) | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | 그래프, 브루트포스, 탐색, BFS, DFS     |
+| 14888      | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 브루트포스, 백트래킹     |
+| 31575      | [도시와 비트코인](https://www.acmicpc.net/problem/31575) | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 다이나믹 프로그래밍, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색     |
 ---
 
 **SQL**
@@ -86,6 +88,8 @@
 | 59038    | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)   | LV.2   |
 | 59043    | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | LV.3   |
 | 131537    | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)   | LV.4   |
+| 59044    | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | LV.3   |
+| 59045    | [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)   | LV.4   |
 
 ---
 
