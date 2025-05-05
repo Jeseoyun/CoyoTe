@@ -42,7 +42,7 @@
 | 151137    | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | LV.?   |
 | 273712    | [업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712)   | LV.?   |
 | 301649    | [대장균 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649) | LV.?   |
-| 273712    | [업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712)   | LV.?   |
+| 301650    | [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)   | LV.?   |
 
 ---
 
