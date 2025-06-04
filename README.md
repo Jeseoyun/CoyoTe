@@ -30,6 +30,8 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
+| 17281      | [⚾](https://www.acmicpc.net/problem/17281)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 브루트포스 알고리즘     |
+| 1389      | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 플로이드-워셜     |
 | 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
 | 11404      | [플로이드](https://www.acmicpc.net/problem/11404) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 최단 경로, 플로이드-워셜     |
 ---
@@ -37,6 +39,8 @@
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
+| 293261    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | LV.?   |
+| 276034    | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034)   | LV.?   |
 | 132204    | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | LV.?   |
 | 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   | LV.?   |
 
