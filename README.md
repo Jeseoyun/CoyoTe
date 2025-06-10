@@ -1,27 +1,39 @@
-ㅠ# 🦊CoyoTe🦊
+# 🦊CoyoTe🦊
 
 ## **🔔 Member**  
-> ### **권기범**
+> ### **권기범** (qja1998)
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 > - [solved.ac](https://solved.ac/profile/qja1998)
 > - ~~1일 1백준 중~~
 ---
-> ### **김수민**  
+> ### **김수민** (nimoot)
 >
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=nimootmic)](https://solved.ac/nimootmic)
 ---
-> ### **연재환**  
+> ### **연재환** (Ja-efan)
 >
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=woghks1213y)](https://solved.ac/woghks1213y)
----
-> ### **제서윤**  
 >
+> - [Ja-efan](https://github.com/Ja-efan)
 ---
-> ### **류현웅**
+> ### **제서윤** (Jeseoyun)
+>
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=jeeeseo98)](https://solved.ac/jeeeseo98)
+
+---
+> ### **류현웅** (RomanticBear)
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
-> - 
 ---
+
+> ### **임종훈** 
+>
+> - 참가 예정 
+
+<br>
+<br>
+
 
 ## 📅 이번 주 풀 문제
 
