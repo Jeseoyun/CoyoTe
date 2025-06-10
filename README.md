@@ -1,4 +1,4 @@
-# 🦊CoyoTe🦊
+ㅠ# 🦊CoyoTe🦊
 
 ## **🔔 Member**  
 > ### **권기범**
@@ -27,24 +27,30 @@
 
 ### **🎯 주간 문제 리스트**
 
+<br>
+
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 17281      | [⚾](https://www.acmicpc.net/problem/17281)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 브루트포스 알고리즘     |
-| 1389      | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 플로이드-워셜     |
-| 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
-| 11404      | [플로이드](https://www.acmicpc.net/problem/11404) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 최단 경로, 플로이드-워셜     |
+| 17281      | [⚾](https://www.acmicpc.net/problem/17281) (13주차)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 브루트포스 알고리즘     |
+| 1389      | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (13주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 플로이드-워셜     |
+| 11404      | [플로이드](https://www.acmicpc.net/problem/11404) (12주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 최단 경로, 플로이드-워셜     |
+| 1010      | [다리 놓기](https://www.acmicpc.net/problem/1010) (12주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 다이나믹 프로그래밍, 조합론     |
 ---
+
+<br>
 
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 293261    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | LV.?   |
-| 276034    | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034)   | LV.?   |
-| 132204    | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | LV.?   |
-| 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   | LV.?   |
+| 293261    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) (13주차) | LV.?   |
+| 276034    | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034)  (13주차) | LV.?   |
+| 132204    | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) (12주차) | LV.?   |
+| 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)  (12주차) | LV.?   |
 
 ---
+
+<br>
 
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
@@ -52,12 +58,18 @@
 | 131537      | [임계 경로](https://www.acmicpc.net/problem/131537) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
 | 1781      | [컵라면](https://www.acmicpc.net/problem/1781) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 그리디 알고리즘, 우선순위 큐     |
 | 2565      | [임계 경로](https://www.acmicpc.net/problem/2565) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
+| 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
 
 ---
+
+<br>
+<br>
 
 ## ✅ 지금까지 푼 문제
 
 ### **📚 누적 해결 문제 기록**
+
+<br>
 
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
@@ -86,6 +98,8 @@
 | 21608      | [상어 초등학교](https://www.acmicpc.net/problem/21608) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 다익스트라     |
 ---
 
+<br>
+
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
@@ -113,11 +127,17 @@
 | 144854    | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)   | LV.2   |
 ---
 
+<br>
+
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
 | 10845      | [큐](https://www.acmicpc.net/problem/10845)   | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 자료 구조     |
 ---
+
+<br>
+<br>
+
 ## 📌 추가 안내
 
 > **⭐ 스터디 운영 가이드라인**
