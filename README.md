@@ -67,9 +67,9 @@
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 131537      | [임계 경로](https://www.acmicpc.net/problem/131537) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
+| 131537      | [임계 경로](https://www.acmicpc.net/problem/1948) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
 | 1781      | [컵라면](https://www.acmicpc.net/problem/1781) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 그리디 알고리즘, 우선순위 큐     |
-| 2565      | [임계 경로](https://www.acmicpc.net/problem/2565) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
+| 2565      | [전깃줄](https://www.acmicpc.net/problem/2565) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
 | 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
 
 ---
