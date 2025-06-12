@@ -29,7 +29,8 @@
 
 > ### **임종훈** 
 >
-> - 참가 예정 
+> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijh0614)](https://solved.ac/ijh0614/)
+
 
 <br>
 <br>
