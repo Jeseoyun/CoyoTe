@@ -22,14 +22,10 @@
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=jeeeseo98)](https://solved.ac/jeeeseo98)
 
 ---
-> ### **류현웅** (RomanticBear)
-> 
-> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
----
 
 > ### **임종훈** 
 >
-> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijh0614)](https://solved.ac/ijh0614/)
+> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijh0614)](https://solved.ac/ijh0614)
 
 
 <br>
@@ -45,10 +41,10 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 17281      | [⚾](https://www.acmicpc.net/problem/17281) (13주차)   | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 브루트포스 알고리즘     |
-| 1389      | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (13주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 플로이드-워셜     |
-| 11404      | [플로이드](https://www.acmicpc.net/problem/11404) (12주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 최단 경로, 플로이드-워셜     |
-| 1010      | [다리 놓기](https://www.acmicpc.net/problem/1010) (12주차) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 다이나믹 프로그래밍, 조합론     |
+| 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966)  | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 자료 구조, 시뮬레이션, 큐 |
+| 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 구현, 시뮬레이션 |
+
+
 ---
 
 <br>
@@ -56,10 +52,9 @@
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 293261    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) (13주차) | LV.?   |
-| 276034    | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034)  (13주차) | LV.?   |
-| 132204    | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) (12주차) | LV.?   |
-| 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)  (12주차) | LV.?   |
+| 131118 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118) | LV.? |
+| 273711 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | LV.? |
+
 
 ---
 
@@ -71,7 +66,7 @@
 | 131537      | [임계 경로](https://www.acmicpc.net/problem/1948) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
 | 1781      | [컵라면](https://www.acmicpc.net/problem/1781) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 그리디 알고리즘, 우선순위 큐     |
 | 2565      | [전깃줄](https://www.acmicpc.net/problem/2565) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
-| 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
+
 
 ---
 
@@ -109,6 +104,10 @@
 | 18352      | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 다익스트라     |
 | 2531      | [회전 초밥](https://www.acmicpc.net/problem/2531)   | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 브루트포스 알고리즘, 두 포인터, 슬라이딩 윈도우     |
 | 21608      | [상어 초등학교](https://www.acmicpc.net/problem/21608) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 다익스트라     |
+| 17281      | [⚾](https://www.acmicpc.net/problem/17281)    | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 구현, 브루트포스 알고리즘     |
+| 1389      | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)  | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 최단 경로, 플로이드-워셜     |
+| 11404      | [플로이드](https://www.acmicpc.net/problem/11404)  | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 그래프 이론, 최단 경로, 플로이드-워셜     |
+| 1010      | [다리 놓기](https://www.acmicpc.net/problem/1010)  | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | 다이나믹 프로그래밍, 조합론     |
 ---
 
 <br>
@@ -138,6 +137,10 @@
 | 301650    | [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)   | LV.4   |
 | 59413    | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) | LV.4   |
 | 144854    | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)   | LV.2   |
+| 293261    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)  | LV.3   |
+| 276034    | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) | LV.2   |
+| 132204    | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)  | LV.4   |
+| 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   | LV.3   |
 ---
 
 <br>
@@ -146,6 +149,7 @@
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
 | 10845      | [큐](https://www.acmicpc.net/problem/10845)   | ![S4](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg) | 자료 구조     |
+| 11066      | [파일 합치기](https://www.acmicpc.net/problem/11066) | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | DP     |
 ---
 
 <br>
