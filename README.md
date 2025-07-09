@@ -39,8 +39,8 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 18404 | [현명한 나이트](https://www.acmicpc.net/problem/18404)  | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 격자 그래프 |
-| 1241 | [머리 톡톡](https://www.acmicpc.net/problem/1241) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 수학, 정수론, 소수판정, 조화수 |
+| 2313 | [보석 구매하기](https://www.acmicpc.net/problem/2313)  | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 다이나믹 프로그래밍, 누적합, 역추적, 최대 부분 배열 문제 |
+| 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 스택 |
 
 
 ---
@@ -50,8 +50,8 @@
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 299308 | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | LV.? |
-| 284528 | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | LV.? |
+| 157339 | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | LV.? |
+| 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | LV.? |
 
 
 ---
@@ -61,7 +61,7 @@
 **추천 문제**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 131537      | [임계 경로](https://www.acmicpc.net/problem/1948) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 그래프, 위상 정렬     |
+| 131537      | [임계 경로](https://www.acmicpc.net/problem/1948) | ![P5](https://d2gd6pc034wcta.cloudfront.net/tier/16.svg) | 그래프, 위상 정렬     |
 | 1781      | [컵라면](https://www.acmicpc.net/problem/1781) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 그리디 알고리즘, 우선순위 큐     |
 | 2565      | [전깃줄](https://www.acmicpc.net/problem/2565) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | DP     |
 
@@ -108,6 +108,8 @@
 | 1010      | [다리 놓기](https://www.acmicpc.net/problem/1010)  | ![S5](https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | 다이나믹 프로그래밍, 조합론     |
 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966)  | ![S3](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 구현, 자료 구조, 시뮬레이션, 큐 |
 | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 시뮬레이션 |
+| 18404 | [현명한 나이트](https://www.acmicpc.net/problem/18404)  | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 격자 그래프 |
+| 1241 | [머리 톡톡](https://www.acmicpc.net/problem/1241) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 수학, 정수론, 소수판정, 조화수 |
 ---
 
 <br>
@@ -143,6 +145,8 @@
 | 77487    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   | LV.3   |
 | 131118 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118) | LV.4 |
 | 273711 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | LV.2 |
+| 299308 | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | LV.2 |
+| 284528 | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | LV.4 |
 ---
 
 <br>
