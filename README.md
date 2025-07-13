@@ -39,8 +39,8 @@
 **Algorithm**
 | 문제 번호 | 문제 제목     | 난이도                                                | 카테고리 |
 | :--------: | :------------ | :---------------------------------------------------- | :------- |
-| 2313 | [보석 구매하기](https://www.acmicpc.net/problem/2313)  | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 다이나믹 프로그래밍, 누적합, 역추적, 최대 부분 배열 문제 |
-| 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | 자료구조, 스택 |
+| 1379 | [강의실 2](https://www.acmicpc.net/problem/1379)  | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | - |
+| 1195 | [킥다운](https://www.acmicpc.net/problem/1195) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | - |
 
 
 ---
@@ -50,8 +50,8 @@
 **SQL**
 | 문제 번호 | 문제 제목                             | 난이도 |
 | :--------: | :------------------------------------ | :----- |
-| 157339 | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | LV.? |
-| 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | LV.? |
+| 284531 | [노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | LV.? |
+| 164671 | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | LV.? |
 
 
 ---
@@ -110,6 +110,8 @@
 | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 시뮬레이션 |
 | 18404 | [현명한 나이트](https://www.acmicpc.net/problem/18404)  | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 격자 그래프 |
 | 1241 | [머리 톡톡](https://www.acmicpc.net/problem/1241) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 수학, 정수론, 소수판정, 조화수 |
+| 2313 | [보석 구매하기](https://www.acmicpc.net/problem/2313)  | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 다이나믹 프로그래밍, 누적합, 역추적, 최대 부분 배열 문제 |
+| 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 자료구조, 스택 |
 ---
 
 <br>
@@ -147,6 +149,8 @@
 | 273711 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | LV.2 |
 | 299308 | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | LV.2 |
 | 284528 | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | LV.4 |
+| 157339 | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | LV.4 |
+| 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | LV.2 |
 ---
 
 <br>
