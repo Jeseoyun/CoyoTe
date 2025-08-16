@@ -39,19 +39,13 @@
 **Algorithm**
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   1327    | [소트 게임](https://www.acmicpc.net/problem/1327) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   10773   | [제로](https://www.acmicpc.net/problem/10773)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-
+|   17276    | [배열 돌리기](https://www.acmicpc.net/problem/17276) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   16926   | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   16719   | [ZOAC](https://www.acmicpc.net/problem/16719)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
 <br>
-
-**SQL**
-| 문제 번호 | 문제 제목                                                                                        | 난이도 |
-| :-------: | :----------------------------------------------------------------------------------------------- | :----- |
-|  131117   | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) | LV.?   |
-|  157342   | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | LV.?   |
 
 ---
 
