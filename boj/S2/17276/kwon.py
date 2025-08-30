@@ -1,4 +1,6 @@
-# 크기가 n x n인 2차원 정수 배열 X가 있다. (n은 홀수)
+# https://www.acmicpc.net/problem/17276
+# 배열 돌리기
+
 from copy import deepcopy
 class Matrix:
     def __init__(self):
