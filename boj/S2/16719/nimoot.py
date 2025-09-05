@@ -5,7 +5,7 @@ def next_word(word, start, end):
     min_char = '['  # Z보다 큰 아스키 코드
     min_idx = -1
     for i in range(start, end):
-        if not is_insert[i] and word[i] < min_char:
+        if word[i] < min_char:
             min_char = word[i]
             min_idx = i
 
