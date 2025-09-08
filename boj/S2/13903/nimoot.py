@@ -12,7 +12,7 @@ def bfs():
 
     while queue:
         x, y = queue.popleft()
-        if x == r-1:
+        if x == r-1: # 이 코드가 없어도 돌아가긴한다,,,
             continue
             
         for m in move:
