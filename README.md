@@ -45,9 +45,9 @@
 
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   13903    | [출근](https://www.acmicpc.net/problem/13903) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   1091   | [카드 섞기](https://www.acmicpc.net/problem/1091)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   27211   | [도넛행성](https://www.acmicpc.net/problem/27211)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   2458    | [키 순서](https://www.acmicpc.net/problem/2458) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   11559   | [트럭](https://www.acmicpc.net/problem/11559)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   13335   | [Puyo Puyo](https://www.acmicpc.net/problem/13335)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
@@ -113,6 +113,9 @@
 |   17276    | [배열 돌리기](https://www.acmicpc.net/problem/17276) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 구현        |
 |   16926   | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현        |
 |   16719   | [ZOAC](https://www.acmicpc.net/problem/16719)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 문자열, 재귀        |
+|   13903    | [출근](https://www.acmicpc.net/problem/13903) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 격자 그래프        |
+|   1091   | [카드 섞기](https://www.acmicpc.net/problem/1091)     | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 구현, 시뮬레이션        |
+|   27211   | [도넛행성](https://www.acmicpc.net/problem/27211)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
 ---
 <br>
 
