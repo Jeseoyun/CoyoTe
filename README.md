@@ -42,11 +42,12 @@
 <br>
 
 **Algorithm**
+
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   17276    | [배열 돌리기](https://www.acmicpc.net/problem/17276) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   16926   | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   16719   | [ZOAC](https://www.acmicpc.net/problem/16719)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   13903    | [출근](https://www.acmicpc.net/problem/13903) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   1091   | [카드 섞기](https://www.acmicpc.net/problem/1091)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   27211   | [도넛행성](https://www.acmicpc.net/problem/27211)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
@@ -109,6 +110,9 @@
 |   1874    | [스택 수열](https://www.acmicpc.net/problem/1874)                | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg)  | 자료구조, 스택                                                                |
 |   1379    | [강의실 2](https://www.acmicpc.net/problem/1379)                 | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐                                 |
 |   1195    | [킥다운](https://www.acmicpc.net/problem/1195)                   | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 구현, 브루트포스 알고리즘                                                     |
+|   17276    | [배열 돌리기](https://www.acmicpc.net/problem/17276) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 구현        |
+|   16926   | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현        |
+|   16719   | [ZOAC](https://www.acmicpc.net/problem/16719)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 문자열, 재귀        |
 ---
 <br>
 
