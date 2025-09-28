@@ -45,9 +45,9 @@
 
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   2458    | [키 순서](https://www.acmicpc.net/problem/2458) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   11559   | [Puyo Puyo](https://www.acmicpc.net/problem/11559)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   13335   | [트럭](https://www.acmicpc.net/problem/13335)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   24446    | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   25401   | [카드 바꾸기](https://www.acmicpc.net/problem/25401)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   1756   | [피자 굽기](https://www.acmicpc.net/problem/1756)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
@@ -116,6 +116,9 @@
 |   13903    | [출근](https://www.acmicpc.net/problem/13903) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 격자 그래프        |
 |   1091   | [카드 섞기](https://www.acmicpc.net/problem/1091)     | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 구현, 시뮬레이션        |
 |   27211   | [도넛행성](https://www.acmicpc.net/problem/27211)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
+|   2458    | [키 순서](https://www.acmicpc.net/problem/2458) | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 그래프 이론, 그래프 탐색, 깊이 우선 탐색, 최단 경로, 플로이드 워셜        |
+|   11559   | [Puyo Puyo](https://www.acmicpc.net/problem/11559)     | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 구현, 그래프 이론, 그래프 탐색, 시뮬레이션, 너비 우선 탐색        |
+|   13335   | [트럭](https://www.acmicpc.net/problem/13335)     | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 구현, 자료 구조, 시뮬레이션, 큐        |
 ---
 <br>
 
