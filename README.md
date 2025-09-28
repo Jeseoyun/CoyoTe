@@ -46,8 +46,8 @@
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
 |   2458    | [키 순서](https://www.acmicpc.net/problem/2458) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   11559   | [트럭](https://www.acmicpc.net/problem/11559)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   13335   | [Puyo Puyo](https://www.acmicpc.net/problem/13335)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   11559   | [Puyo Puyo](https://www.acmicpc.net/problem/11559)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   13335   | [트럭](https://www.acmicpc.net/problem/13335)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
