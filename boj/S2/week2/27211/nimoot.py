@@ -30,7 +30,7 @@ ans = 2
 for i in range(n):
     for j in range(m):
         if arr[i][j] == 0:
-            bfs(i,j,ans)
+            bfs(i,j,ans)    
             ans += 1
 
 print(ans-2)
