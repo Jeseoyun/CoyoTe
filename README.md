@@ -45,9 +45,9 @@
 
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   24446    | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   25401   | [카드 바꾸기](https://www.acmicpc.net/problem/25401)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   1756   | [피자 굽기](https://www.acmicpc.net/problem/1756)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   1430    | [공격](https://www.acmicpc.net/problem/1430) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   1303   | [전쟁 - 전투](https://www.acmicpc.net/problem/1303)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   4994   | [배수 찾기](https://www.acmicpc.net/problem/4994)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
@@ -119,6 +119,9 @@
 |   2458    | [키 순서](https://www.acmicpc.net/problem/2458) | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 그래프 이론, 그래프 탐색, 깊이 우선 탐색, 최단 경로, 플로이드 워셜        |
 |   11559   | [Puyo Puyo](https://www.acmicpc.net/problem/11559)     | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 구현, 그래프 이론, 그래프 탐색, 시뮬레이션, 너비 우선 탐색        |
 |   13335   | [트럭](https://www.acmicpc.net/problem/13335)     | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 구현, 자료 구조, 시뮬레이션, 큐        |
+|   24446    | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
+|   25401   | [카드 바꾸기](https://www.acmicpc.net/problem/25401)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 수학, 구현, 브루트포스 알고리즘        |
+|   1756   | [피자 굽기](https://www.acmicpc.net/problem/1756)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현        |
 ---
 <br>
 
@@ -191,7 +194,8 @@
 #### ⚠️ 패널티 시스템
 - **문제 미해결**: 5,000원
 - **스터디 불참**: 5,000원
-- **누적 시**: 1,000원씩 증가 (회당)
+- **누적 시**: 1,000원씩 증가
+- **괘씸죄**: 합산 금액의 2배 적용 가능
 - **면죄부**: 충분한 설명 시 재판을 통한 면제 가능
 
 #### 📁 파일 구조
