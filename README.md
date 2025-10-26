@@ -43,11 +43,12 @@
 
 **Algorithm**
 
+2210 14891 2234
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   1430    | [공격](https://www.acmicpc.net/problem/1430) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   1303   | [전쟁 - 전투](https://www.acmicpc.net/problem/1303)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   4994   | [배수 찾기](https://www.acmicpc.net/problem/4994)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   2210    | [숫자판 점프](https://www.acmicpc.net/problem/2210) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   14891   | [톱니바퀴](https://www.acmicpc.net/problem/14891)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   2234   | [성곽](https://www.acmicpc.net/problem/2234) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 
 ---
 
@@ -122,6 +123,9 @@
 |   24446    | [알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
 |   25401   | [카드 바꾸기](https://www.acmicpc.net/problem/25401)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 수학, 구현, 브루트포스 알고리즘        |
 |   1756   | [피자 굽기](https://www.acmicpc.net/problem/1756)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현        |
+|   1430    | [공격](https://www.acmicpc.net/problem/1430) | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 수학, 그래프 이론, 그래프 탐색, 기하학, 너비 우선 탐색, 최단 경로        |
+|   1303   | [전쟁 - 전투](https://www.acmicpc.net/problem/1303)     | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색, 격자 그래프        |
+|   4994   | [배수 찾기](https://www.acmicpc.net/problem/4994)     | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 수학, 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
 ---
 <br>
 
@@ -195,7 +199,6 @@
 - **문제 미해결**: 5,000원
 - **스터디 불참**: 5,000원
 - **누적 시**: 1,000원씩 증가
-- **괘씸죄**: 합산 금액의 2배 적용 가능
 - **면죄부**: 충분한 설명 시 재판을 통한 면제 가능
 
 #### 📁 파일 구조
