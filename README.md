@@ -46,10 +46,9 @@
 2210 14891 2234
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   2210    | [숫자판 점프](https://www.acmicpc.net/problem/2210) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   14891   | [톱니바퀴](https://www.acmicpc.net/problem/14891)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   2234   | [성곽](https://www.acmicpc.net/problem/2234) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-
+|   16948    | [데스나이트](https://www.acmicpc.net/problem/16948) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   16637   | [괄호 추가하기](https://www.acmicpc.net/problem/16637)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   7490   | [0 만들기](https://www.acmicpc.net/problem/7490) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 ---
 
 <br>
@@ -126,6 +125,9 @@
 |   1430    | [공격](https://www.acmicpc.net/problem/1430) | ![G4](https://d2gd6pc034wcta.cloudfront.net/tier/12.svg) | 수학, 그래프 이론, 그래프 탐색, 기하학, 너비 우선 탐색, 최단 경로        |
 |   1303   | [전쟁 - 전투](https://www.acmicpc.net/problem/1303)     | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/10.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색, 격자 그래프        |
 |   4994   | [배수 찾기](https://www.acmicpc.net/problem/4994)     | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 수학, 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
+|   2210    | [숫자판 점프](https://www.acmicpc.net/problem/2210) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 깊이 우선 탐색, 격자 그래프        |
+|   14891   | [톱니바퀴](https://www.acmicpc.net/problem/14891)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier11.svg) | 구현, 시뮬레이션        |
+|   2234   | [성곽](https://www.acmicpc.net/problem/2234) | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 비트마스킹, 격자 그래프        |
 ---
 <br>
 
