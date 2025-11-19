@@ -1,6 +1,4 @@
 # 16637 괄호 추가하기
-from collections import deque
-
 class Calculator:
     def __init__(self, n, expression):
         self.n = n
