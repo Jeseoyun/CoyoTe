@@ -45,9 +45,9 @@
 2210 14891 2234
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   2638    | [치즈](https://www.acmicpc.net/problem/2638) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   17837   | [새로운 게임 2](https://www.acmicpc.net/problem/17837)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   1495   | [기타리스트](https://www.acmicpc.net/problem/1495) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   19621    | [회의실 배정 2](https://www.acmicpc.net/problem/19621) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   2481   | [해밍 경로](https://www.acmicpc.net/problem/2481)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   6086   | [최대 유량](https://www.acmicpc.net/problem/6086) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 ---
 
 <br>
@@ -129,7 +129,10 @@
 |   2234   | [성곽](https://www.acmicpc.net/problem/2234) | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 비트마스킹, 격자 그래프        |
 |   16948    | [데스나이트](https://www.acmicpc.net/problem/16948) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
 |   16637   | [괄호 추가하기](https://www.acmicpc.net/problem/16637)     | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 구현, 브루트포스 알고리즘        |
-|   7490   | [0 만들기](https://www.acmicpc.net/problem/7490) | ![ㅎ5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 문자열, 브루트포스 알고리즘, 백트래킹        |
+|   7490   | [0 만들기](https://www.acmicpc.net/problem/7490) | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 문자열, 브루트포스 알고리즘, 백트래킹        |
+|   2638    | [치즈](https://www.acmicpc.net/problem/2638) | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 구현, 그래프 이론, 그래프 탐색, 시뮬레이션, 너비 우선 탐색, 깊이 우선 탐색, 격자 그래프        |
+|   17837   | [새로운 게임 2](https://www.acmicpc.net/problem/17837)     | ![G2](https://d2gd6pc034wcta.cloudfront.net/tier/14.svg) | 구현, 시뮬레이션        |
+|   1495   | [기타리스트](https://www.acmicpc.net/problem/1495) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 다이나믹 프로그래밍        |
 ---
 ---
 <br>
