@@ -5,10 +5,6 @@
 > 
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
 ---
-> ### **김수민** (nimoot)
->
-> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=nimootmic)](https://solved.ac/nimootmic)
----
 > ### **연재환** (Ja-efan)
 >
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=woghks1213y)](https://solved.ac/woghks1213y)
@@ -18,17 +14,20 @@
 > ### **제서윤** (Jeseoyun)
 >
 > [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=jeeeseo98)](https://solved.ac/jeeeseo98)
-
----
-
-### Old Member
-> ### **류현웅** (RomanticBear)
-> 
-> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
 ---
 > ### **임종훈** (ijh0614)
 >
 > [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijh0614)](https://solved.ac/ijh0614)
+---
+
+### Old Member
+> ### **김수민** (nimoot)
+>
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=nimootmic)](https://solved.ac/nimootmic)
+---
+> ### **류현웅** (RomanticBear)
+> 
+> [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=r1h2w3)](https://solved.ac/r1h2w3)
 
 
 <br>
@@ -46,9 +45,9 @@
 2210 14891 2234
 | 문제 번호 | 문제 제목                                         | 난이도                                                 | 카테고리 |
 | :-------: | :------------------------------------------------ | :----------------------------------------------------- | :------- |
-|   16948    | [데스나이트](https://www.acmicpc.net/problem/16948) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   16637   | [괄호 추가하기](https://www.acmicpc.net/problem/16637)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
-|   7490   | [0 만들기](https://www.acmicpc.net/problem/7490) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   2638    | [치즈](https://www.acmicpc.net/problem/2638) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   17837   | [새로운 게임 2](https://www.acmicpc.net/problem/17837)     | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
+|   1495   | [기타리스트](https://www.acmicpc.net/problem/1495) | ![?](https://d2gd6pc034wcta.cloudfront.net/tier/0.svg) | -        |
 ---
 
 <br>
@@ -128,6 +127,10 @@
 |   2210    | [숫자판 점프](https://www.acmicpc.net/problem/2210) | ![S2](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg) | 그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 깊이 우선 탐색, 격자 그래프        |
 |   14891   | [톱니바퀴](https://www.acmicpc.net/problem/14891)     | ![G5](https://d2gd6pc034wcta.cloudfront.net/tier11.svg) | 구현, 시뮬레이션        |
 |   2234   | [성곽](https://www.acmicpc.net/problem/2234) | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 비트마스킹, 격자 그래프        |
+|   16948    | [데스나이트](https://www.acmicpc.net/problem/16948) | ![S1](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg) | 그래프 이론, 그래프 탐색, 너비 우선 탐색        |
+|   16637   | [괄호 추가하기](https://www.acmicpc.net/problem/16637)     | ![G3](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg) | 구현, 브루트포스 알고리즘        |
+|   7490   | [0 만들기](https://www.acmicpc.net/problem/7490) | ![ㅎ5](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg) | 구현, 문자열, 브루트포스 알고리즘, 백트래킹        |
+---
 ---
 <br>
 
@@ -184,7 +187,49 @@
 
 ## 📌 공지 사항
 
-### ⭐ Season 2 운영 가이드라인
+### ⭐ Season 3 운영 가이드라인
+
+| 항목 | 내용 |
+|------|------|
+| **🎯 목표** | 기업 코딩 테스트 준비 & 알고리즘 감 유지 |
+| **📅 주기** | 매월 2,4주차 일요일 (대형마트 휴무일) 오후 7시 |
+| **🏁 기간** | 2025년 12월 14일 ~ 2026년 3월 8일 (7회) |
+| **📍 장소** | Discord |
+
+#### 📚 문제 선정
+- **난이도**: 
+  - `골드 1~3` 2문제
+    - 구현, 탐색 등 기존 카테고리
+  - `실버 1~2 - 골드 4~5` 1문제
+    - DP, 트리 등 신규 카테고리
+    <details>
+    queue, topological_sorting, knapsack, memoization, lca, dp, stack, pattern_matching, ternary_search, lis, trie, deque, graph_dp, lcs, string_matching, string, binary_search, binary_tree, hash, dijkstra, segtree, divide_and_conquer, priority_queue, hashmap, interval_dp, floyd_warshall, tree_dp, heap, bellman_ford, bitmask
+    </details>
+- **문제 공개**: 
+  - 2주 전 월요일 2문제
+  - 1주 전 월요일 1문제
+- **PR**: 
+  - 주 1회 (권장)
+    - 꾸준하게 하면 좋잖아용^_^!
+  - 미팅 전 필수
+
+#### 🔄 진행 방식
+- 발표자 화면 공유하면서 코드 설명
+
+#### ⚠️ 패널티 시스템
+- **스터디 불참**: 5,000원 누적
+- **누적 시**: 1,000원씩 증가 (6천원, 7천원 … )
+- **불참 사유**: 최소 1주일 전 공유
+
+#### 🚪 탈퇴
+- 2주 전 탈퇴 사유 공유
+
+---
+
+<details>
+<summary><b>Season 2 운영 가이드라인 (종료)</b></summary>
+
+<br>
 
 | 항목 | 내용 |
 |------|------|
@@ -202,6 +247,8 @@
 - **스터디 불참**: 5,000원
 - **누적 시**: 1,000원씩 증가
 - **면죄부**: 충분한 설명 시 재판을 통한 면제 가능
+
+</details>
 
 #### 📁 파일 구조
 ```
