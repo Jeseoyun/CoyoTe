@@ -19,24 +19,26 @@ def find_candidates(code, K):
     return candidates
 
 
-def bfs(graph, start, target, N):
-    visited = [False] * (N + 1)
-    queue = deque([(start, [start])])
-    visited[start] = True
+def bfs(graph, start):
+    visited = set()
+    parent = dict()
+
+    queue = deque([start])
+    visited.add(start)
+    parent[start] = None
 
     while queue:
-        cur, path = queue.popleft()
-
-        if cur == target:
-            return path
+        cur = queue.popleft()
 
         for adj in graph[cur]:
-            if visited[adj]:
+            if adj in visited:
                 continue
-            visited[adj] = True
-            queue.append((adj, path + [adj]))
 
-    return None
+            visited.add(adj)
+            parent[adj] = cur
+            queue.append(adj)
+
+    return parent
 
 
 def main():
@@ -60,13 +62,20 @@ def main():
                 adj = rev_codes[cand]
                 graph[node].append(adj)
 
-    for target in queries:
-        path = bfs(graph, 1, target, N)
+    parent = bfs(graph, 1)
 
-        if path is None:
+    for target in queries:
+        if target not in parent:
             print(-1)
-        else:
-            print(" ".join(map(str, path)))
+            continue
+
+        path = []
+        cur = target
+        while cur:
+            path.append(cur)
+            cur = parent[cur]
+
+        print(" ".join(map(str, path[::-1])))
 
 
 if __name__ == "__main__":
